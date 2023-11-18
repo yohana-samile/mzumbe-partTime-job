@@ -28,12 +28,14 @@ Run the script http://localhost/muptj
 Admin Credential
 Username: alicesamile@gmail.com
 Password: 1234
-Screeshot show system how it works
 
 Jobseeker Credential
 Username: yohanasamile@gmail.com
 Password: 1234
 or Register a new employer.
+
+
+Screeshot show system how it works
 
 ![Screenshot from 2023-11-18 06-32-17](https://github.com/yohana-samile/mzumbe-partTime-job/assets/99715781/43df61da-c924-4333-a6a1-759c8e7be059)
 Fig 1 home page which applicants can see job posted
