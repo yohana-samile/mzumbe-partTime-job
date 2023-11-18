@@ -5,7 +5,35 @@ mzumbe part time job this is final year project done by diploma student at Mzumb
 aim of this system is to make easy application of part time jobs at mzumbe university.
 (Mzumbe Part-Time Job Portal — your gateway to exciting part-time job opportunities tailored for Mzumbe University students! 🎓💼)
 
+TOOLS AND TECHNOLOGY
+
+This project is developed using PHP and Mysql Database for Server-side (backend)
+This project is developed using Bootstrap 4, and js for client side (front-end)
+
+HOW TO RUN THIS PROJECT
+
+Web Browser installation --->	Mozilla, Google Chrome, IE8, OPERA
+
+Software  --->	XAMPP / Wamp / Mamp/ Lamp (anyone)
+
+Then;
+Open PHPMyAdmin (http://localhost/phpmyadmin),
+
+Create a database with name muptj,
+
+Import muptj.sql file(given inside the db folder),
+
+Run the script http://localhost/muptj
+
+Admin Credential
+Username: alicesamile@gmail.com
+Password: 1234
 Screeshot show system how it works
+
+Jobseeker Credential
+Username: yohanasamile@gmail.com
+Password: 1234
+or Register a new employer.
 
 ![Screenshot from 2023-11-18 06-32-17](https://github.com/yohana-samile/mzumbe-partTime-job/assets/99715781/43df61da-c924-4333-a6a1-759c8e7be059)
 Fig 1 home page which applicants can see job posted
